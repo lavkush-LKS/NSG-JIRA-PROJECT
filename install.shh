@@ -1,0 +1,3 @@
+#/bin/base
+sudu apt- update
+sudu apt- get install docker.10
